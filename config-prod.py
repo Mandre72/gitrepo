@@ -1,3 +1,3 @@
-timOut: 900
+timOut: 800
 
 
