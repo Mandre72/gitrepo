@@ -1,0 +1,12 @@
+h2 {
+    color: blue;
+}
+
+div.Ingredients{
+    background-color: aqua
+}
+
+h2.bio.h2header {
+    color: grey;
+    font-size: 200%;
+}
